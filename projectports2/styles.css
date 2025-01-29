@@ -187,3 +187,18 @@
 #carousel-5:checked ~ .control-5 ~ .carousel-indicators li:nth-child(5) .carousel-bullet {
     color: #428bca;
 }
+
+.tablee{
+  text-align: left;
+  margin-left: 20%;
+  font-size: 25px;
+
+}
+
+table{
+  width: 100%;
+}
+
+footer{
+  text-align: center;
+}
